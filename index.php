@@ -1,2 +1,2 @@
 <?php
-echo 'Labas';
+echo 'Labas'.'<br>';
